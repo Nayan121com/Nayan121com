@@ -6,3 +6,5 @@
 - 💬 Ask me about -> Data Structure and Algorithms, React, AWS, CI/CD, Spring Boot.
 - 📫 How to reach me: - kanumgupta32@gmail.com
 - 😄 Pronouns: He/Him
+  
+[![Nayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayan121com)](https://github.com/Nayan121com/github-readme-stats)
