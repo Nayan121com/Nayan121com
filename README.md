@@ -7,6 +7,4 @@
 - 📫 How to reach me: - kanumgupta32@gmail.com
 - 😄 Pronouns: He/Him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan121com)](https://github.com/Nayan121com/github-readme-stats)
-
-[![Nayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayan121com)](https://github.com/Nayan121com/github-readme-stats)
+[![Nayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayan121com)](https://github.com/Nayan121com/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan121com)](https://github.com/Nayan121com/github-readme-stats)
